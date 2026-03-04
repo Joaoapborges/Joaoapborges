@@ -1,14 +1,14 @@
-# Olá! 
+# Hello! 
 
-Sou estudante do 2º ano de **Engenharia Informática** e concilio os meus estudos com o meu trabalho atual como programador e operador de **Máquinas CNC** na **Skelt**.
+I am a 2nd-year **Computer Engineering** student and I balance my studies with my current role as a programmer and **CNC Machine** Operator at **Skelt**.
 
-Tenho um forte interesse em desenvolvimento de software, redes e cibersegurança.
+I have a strong interest in software development, networking, and cybersecurity.
 
-Neste momento, estou ativamente à procura de um **estágio de verão para 2026** onde possa contribuir ativamente e crescer como desenvolvedor.
+At the moment, I´m actively looking for a **Summer Internship in 2026** where I can contribute to real-world projects and continue growing as a developer.
 
-### 💻 O que faço e o que uso:
-- **Bases Sólidas:** C# (Programação Orientada a Objetos), SQL Server, PostgreSQL e redes.
-- **A aprender atualmente:** Desenvolvimento Mobile (React Native, MAUI), Web Backend (Laravel) e Ciber segurança.
+### 💻 What I Do & Use:
+- **Strong Foundations:** C# (Object-Oriented Programming), SQL Server, PostgreSQL, and Networking.
+- **Currently Learning:** Mobile Development (React Native, .NET MAUI), Web Backend (Laravel), and Cybersecurity.
 
-### 🚀 O meu trabalho
-Dê uma vista de olhos ao meu repositório principal, o **[DigitalWallet](https://github.com/Joaoapborges/DigitalWallet)**, onde tenho vindo a aplicar os meus conhecimentos na prática.
+### 🚀 Featured Project
+Take a look at my main repository **[DigitalWallet](https://github.com/Joaoapborges/DigitalWallet)**, where I apply my knowledge in practice.
