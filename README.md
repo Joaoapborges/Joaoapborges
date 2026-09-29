@@ -10,6 +10,6 @@ I am always open to new challenges and opportunities where I can contribute to r
 
 ### 🚀 Featured Projects
 
-**[Housely](https://www.youtube.com/watch?v=_DKB9Qzn9ig)** — React Native + TypeScript mobile app for renting properties in Portugal, featuring a swipe-based interface, geolocation, and smart filtering by budget, typology, and distance.
+**[Housely](https://www.youtube.com/watch?v=_DKB9Qzn9ig)** — React Native + TypeScript mobile app for renting properties in Portugal, featuring a swipe-based interface, geolocation, and smart filtering by budget, typology, and distance. [(YouTube demo)](https://www.youtube.com/watch?v=_DKB9Qzn9ig)
 
 **[Task Manager](https://github.com/Joaoapborges/ToDo-PA)** — Electron desktop app with SQLite, full CRUD, a floating widget for daily tasks, Light/Dark theme, and secure IPC architecture. [(YouTube demo)](https://youtu.be/V2R7w6GffoM)
