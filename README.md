@@ -1,11 +1,12 @@
-# Hello! 
-I am a 2nd-year **Computer Engineering** student and I balance my studies with my current role as a programmer and **CNC Machine** Operator at **Skelt**.
-I have a strong interest in software development, networking, and cybersecurity.
-At the moment, I´m actively looking for a **Summer Internship in 2026** where I can contribute to real-world projects and continue growing as a developer.
+# Hello!
+
+I am a 3rd-year **Computer Engineering** student at ISLA Gaia with a strong work ethic. 
+I recently completed a **Chaos Engineering Internship** at INESC TEC (Robotair) and I have a strong interest in embedded systems, robotics, and cybersecurity. 
+I am always open to new challenges and opportunities where I can contribute to real-world projects and continue growing as a developer.
 
 ### 💻 What I Do & Use:
-- **Strong Foundations:** C# (Object-Oriented Programming), SQL Server, PostgreSQL, and Networking.
-- **Currently Learning:** Mobile Development (React Native, .NET MAUI), Web Backend (Laravel), and Cybersecurity.
+- **Strong Foundations:** C#, Python, SQL, ASP.NET Core, WPF, and Computer Networks.
+- **Currently Learning:** Mobile Development (React Native, .NET MAUI), IA, and Cybersecurity.
 
 ### 🚀 Featured Projects
 
